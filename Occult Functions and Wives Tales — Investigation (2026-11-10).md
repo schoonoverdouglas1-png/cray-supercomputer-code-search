@@ -97,3 +97,10 @@ The Jargon File is the closest thing hacker culture has to a book of wives' tale
 - **Wayback Machine:** PARTIAL. CDX succeeded for catb.org (Jargon snapshots from 2003-06-06); the cray.com domain sweep and folklore-filter query hit archive.org's "Temporarily Offline"/504 outage during this dig and are still owed. Old cray.com material from 1996–2005 remains an open lane, not a closed one.
 - **Web search:** Worked throughout; every verdict above rests on at least one dated, named source, and the three-way conflicts (tunnel, sailboat, Apple quote, even the manner of Seymour's death in retelling) are shown rather than smoothed.
 - **The pattern the dig actually found:** Cray lore is unusual because its mythmaking is *documented as it happened* — the Jargon File says in 1990 that Cray brass invented some legends deliberately; the chairman was caught embellishing by his own employees; and the true classified core (NSA, Q-clearance machines) gave every tale a real shadow to grow in. The machine showed some things and not others because, institutionally, that was literally its customers' rule.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
