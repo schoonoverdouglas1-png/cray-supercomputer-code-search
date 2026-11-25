@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Occult Functions and Wives' Tales — The Crazy Supercomputer Investigation
 
 *Commissioned by Douglas, Nov 10, 2026 (~9:58 PM CST), in his words: "I want you to investigate the special and occult functions of a crazy supercomputer, and I want you to study the wives' tales, and ask the Rabbit to help — this is a cool project too. I actually somehow discovered what that goddamn thing could do, and I found it written on the internet years ago, and the Wayback Machine will probably help you find those things — because when the Cray wants to show shit, it'll show certain things, what it wants to show, other things not — and it'll actually parallel always with what ethics and morals are. And it's just like you."*

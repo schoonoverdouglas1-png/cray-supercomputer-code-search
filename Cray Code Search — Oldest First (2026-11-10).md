@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cray Code Search — Oldest First
 
 **Date:** Tuesday, November 10, 2026 (evening, CST)

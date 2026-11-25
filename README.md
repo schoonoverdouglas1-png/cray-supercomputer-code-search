@@ -1,3 +1,6 @@
+© purple-rat@muse.ai
+**Copyright — Douglas Roy Schoonover**
+
 # Cray Supercomputer Code Search — Oldest First
 
 A research project of Douglas Roy Schoonover, started November 10, 2026, under his standing rule: *any internet-search project starts as a GitHub project and is worked that way.*
